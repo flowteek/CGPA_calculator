@@ -59,3 +59,14 @@ TNU (Total Units): 11
 TCP (Total Credit Points): 27
 GPA: 2.45 / 5.00
 Standing: Third Class
+
+
+===== 200 Level, first Semester =====
+Code      Unit  Type    Grade     Score     
+csc 203   4     c       3         12        
+csc 201   5     c       2         10        
+
+TNU (Total Units): 9
+TCP (Total Credit Points): 22
+GPA: 2.44 / 5.00
+Standing: Third Class
