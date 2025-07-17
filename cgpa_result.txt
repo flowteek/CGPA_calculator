@@ -1,0 +1,61 @@
+
+
+===== 200 Level, 1 Semester =====
+Code      Unit  Type    Grade     Score     
+csc 202   0             0         0         
+          0             0         0         
+          0             0         0         
+          0             0         0         
+          0             0         0         
+
+TNU (Total Units): 0
+TCP (Total Credit Points): 0
+GPA: -nan / 5.00
+Standing: Probation
+
+
+=== Cumulative CGPA ===
+Total Units: 0
+Total Credit Points: 0
+Cumulative CGPA: -nan / 5.00
+
+
+===== 200 Level, first Semester =====
+Code      Unit  Type    Grade     Score     
+csc 202   0             0         0         
+          0             0         0         
+
+TNU (Total Units): 0
+TCP (Total Credit Points): 0
+GPA: -nan / 5.00
+Standing: Probation
+
+
+=== Cumulative CGPA ===
+Total Units: 0
+Total Credit Points: 0
+Cumulative CGPA: -nan / 5.00
+
+
+===== 200 Level, first Semester =====
+Code      Unit  Type    Grade     Score     
+csc 222   0             0         0         
+          0             0         0         
+
+TNU (Total Units): 0
+TCP (Total Credit Points): 0
+GPA: -nan / 5.00
+Standing: Probation
+
+
+===== 200 Level, first Semester =====
+Code      Unit  Type    Grade     Score     
+csc 202   5     C       3         15        
+csc 201   3     c       2         6         
+csc 221   1     c       2         2         
+csc 234   2     c       2         4         
+
+TNU (Total Units): 11
+TCP (Total Credit Points): 27
+GPA: 2.45 / 5.00
+Standing: Third Class
