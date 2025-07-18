@@ -39,5 +39,29 @@ This project contains a simple C++ program to calculate the Cumulative Grade Poi
 9. Open the terminal in VS Code and install the Ubuntu distribution if prompted
 
 ## Group 9 Members
--Ogunbanjo Samuel Babatunde(190591185) 
--Oguntoye Bidemi Sunkanmi (230591302)
+1. Oguntoye Bidemi 230591302
+2. ⁠Balogun Ahmed 230591344
+3. Buhari Al-ameen 230591269
+4. Adebisi Kayode Precious 230115065
+5. ⁠HAASTRUP ADETUMILARA RAPHEAL 230591224
+6. Onochie Emmanuel Chinedu 230115031
+7. Disu Qomarudeen Temiloliwa 230591219
+8. Umoh Joy Zion 230591179
+9. Adisa abdulgafar 230115007
+10. Sanya Kamaldeen Olatunji 240115143
+11. Daso Emmanuel Oluwarotimi 240115119
+12. Shofolu Oladapo 230591253
+13. Akpan Samuel Augustine 230115133
+14. ⁠Pelujo shukurat Mojisola 240591431
+15. Ogunbanjo Samuel Babatunde 190591185
+16. ⁠Olorunfunmi Samuel damilola 230591241
+17. ⁠ Afod omiayo toluwalase 230591020
+18. Oyathelemhi Stephanie 230591246
+19. IGOCHE PRAISE OJOCHIDE 220115041
+20. Taiwo alameen olasubomi 230591279
+21. Adedokun Adedayo Tobiloba 230591261
+22. Akinjeji Oluwaferanmi Samuel 230591031
+23. Agboola Victor Ifedolapo 230591024
+24. Eletu ireayotomiwa Adeshina 230591271
+25. ⁠Name: Turner Nelson Akinpelumi 230591178
+26. Lawal Abdulwahab Olaniyi 240591437
