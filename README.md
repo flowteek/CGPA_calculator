@@ -39,4 +39,5 @@ This project contains a simple C++ program to calculate the Cumulative Grade Poi
 9. Open the terminal in VS Code and install the Ubuntu distribution if prompted
 
 ## Group 9 Members
--
+-Ogunbanjo Samuel Babatunde(190591185) 
+-Oguntoye Bidemi Sunkanmi (230591302)
